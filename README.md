@@ -6,5 +6,11 @@ Playlist pro is an israeli startup, aiming to get parents and their kids more co
 for games to play with their kids according to basic parameters. I came to this party and added a scratch of a Spotify-like algorithm that suggests
 you games according to your previous choices
 
+"Eaternity" is a volunteer project I did to impress a company named eaternity.
+Eaternity is a Swiss company based in Zürich, aiming to bring a solution for the food industry,
+to measure exactly and efficiently the environmental footprint of food products.
+In the project, I generated a basic LLM (Gemini pro) that will hopefully help potential customers to reduce their environmental footprint,
+offering them slight variations of their dishes in order to reduce their footprint. 
+The model states the change of texture/taste of the dish if implementing these variations
 
 arab poetry is just a flex of how good i am with pandas library and plotting stuff
