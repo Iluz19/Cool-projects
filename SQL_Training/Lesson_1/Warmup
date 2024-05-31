@@ -1,0 +1,8 @@
+In the main folder there is a .sql file which contains a table.
+The table has these columns: (user_id, username, first_name, lat_name, gender, password, status)
+
+Your mission is (mission 2 provided courtesy of chatGPT, 1 as a warmup and 3 as a warmup for ML processess) - 
+1. Drop the column named status - it's irrelevant
+2.  a. find the 5 most common names
+    b. plot a histogram of names using python pandas and matplotlib libraries
+3. to find out who uses more numbers in their usernames - men or women?
