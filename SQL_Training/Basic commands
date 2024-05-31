@@ -1,3 +1,5 @@
+NOTE: We are working with mySQLWorkbench
+
 Select * from sample; shows all
 SELECT col1, col2 FROM sample; shows chosen columns
 SELECT * FROM sample WHERE col1 = “val1” ; filter
