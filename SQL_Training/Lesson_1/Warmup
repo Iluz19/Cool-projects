@@ -5,4 +5,4 @@ Your mission is (mission 2 provided courtesy of chatGPT, 1 as a warmup and 3 as 
 1. Drop the column named status - it's irrelevant
 2.  a. find the 5 most common names
     b. plot a histogram of names using python pandas and matplotlib libraries
-3. to find out who uses more numbers in their usernames - men or women?
+3. to find out who uses the digit 4 more in their usernames - men or women?
