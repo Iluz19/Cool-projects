@@ -9,3 +9,4 @@ SELECT * FROM sample WHERE col1 = 100; find specific rows
 UPDATE sample SET col1 = ‘new value’ WHERE col2 = 1500; update col2’s col1 value 
 DELETE FROM sample WHERE col1 = 3000; delete rows
 INSERT INTO sample (col1, col2…) VALUES (val1, val2 …); add rows
+SHOW COLUMNS FROM sample;
