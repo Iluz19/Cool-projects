@@ -1,0 +1,9 @@
+Select * from sample; shows all
+SELECT col1, col2 FROM sample; shows chosen columns
+SELECT * FROM sample WHERE col1 = “val1” ; filter
+SELECT COUNT(*) AS total FROM sample; count and name the total
+SELECT * FROM sample ORDER BY col1 ASC/DESC; order by
+SELECT * FROM sample WHERE col1 = 100; find specific rows
+UPDATE sample SET col1 = ‘new value’ WHERE col2 = 1500; update col2’s col1 value 
+DELETE FROM sample WHERE col1 = 3000; delete rows
+INSERT INTO sample (col1, col2…) VALUES (val1, val2 …); add rows
