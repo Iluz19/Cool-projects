@@ -1,0 +1,21 @@
+NOTE: Please review 24_06_04_nltk_intro.ipynb beforehand
+
+The Gutenberg corpus includes texts from well-known authors such as Shakespeare, Jane Austen, and Herman Melville.
+
+What you need to do:
+
+1. Load the Corpus: Load the Gutenberg corpus and list the file IDs available in the corpus.
+
+2. Tokenization: Choose one text from the corpus (e.g., "shakespeare-hamlet.txt"). Tokenize the text into words and sentences.
+
+3. Stop Words Removal: Remove stop words from the tokenized words. 
+
+4. Stemming and Lemmatization: Apply stemming and lemmatization to the tokenized words. Compare the results and discuss the differences.
+
+5. POS Tagging: Perform part-of-speech tagging on the tokenized words.
+
+6. Named Entity Recognition: Identify named entities in the text.
+
+7. Text Analysis: Determine the 10 most common words in the text (excluding stop words).
+Identify the frequency of a specific word (e.g., "Hamlet"). 
+Analyze the distribution of different parts of speech in the text.
