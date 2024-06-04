@@ -7,6 +7,7 @@ What you need to do:
 1. Load the Corpus: Load the Gutenberg corpus and list the file IDs available in the corpus.
 
 2. Tokenization: Choose one text from the corpus (e.g., "shakespeare-hamlet.txt"). Tokenize the text into words and sentences.
+2.5. Keep only words. remove "[" etc.
 
 3. Stop Words Removal: Remove stop words from the tokenized words. 
 
