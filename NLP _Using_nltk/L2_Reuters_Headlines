@@ -1,0 +1,14 @@
+In this lesson we are going to work on Headlines on Reuters.
+Nltk had a corpus called reuters so it will be approachable.
+
+Our tasks for today are:
+
+1. Filter all the headlines to ["crude", "grain"] categories,
+classify 25% of the texts (test set) using 75% of the texts as train set. 
+What happens when you get rid of the stop words?
+- Don't forget to shuffle the documents, so you'll not have a bias
+
+2. Filter to only "grain" and use Latent Dirichlet Allocation to learn about the topics.
+
+3. Analyze the sentiment of the texts that are categorized as crude. 
+What do you think of the result? Remember, sentiment range is [-5, 5]
